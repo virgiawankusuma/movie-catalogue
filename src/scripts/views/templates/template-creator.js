@@ -30,7 +30,7 @@ const createMovieItemTemplate = (movie) => `
         </div>
     </div>
     <div class="movie-item__content">
-        <h3><a href="${`/#/detail/${movie.id}`}">${movie.title}</a></h3>
+        <h3><a href="${`./#/detail/${movie.id}`}">${movie.title}</a></h3>
         <p>${movie.overview}</p>
     </div>
   </div>
