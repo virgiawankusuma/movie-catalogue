@@ -1,3 +1,15 @@
+# for production
+dist/
+specs/
+src/
+README.md
+karma.conf.js
+package-lock.json
+package.json
+webpack.common.js
+webpack.dev.js
+webpack.prod.js
+
 # Logs
 logs
 *.log
